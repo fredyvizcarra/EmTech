@@ -28,6 +28,7 @@ This project is a middleware API built using NestJS to consume the Marvel public
 - ReactJS
 - Vite
 - Git for version control
+- TailwindCss
 
 ## Installation and Usage
 
@@ -62,7 +63,11 @@ This project is a middleware API built using NestJS to consume the Marvel public
    ```sh
    Open your browser and navigate to http://localhost:3000 (or the port specified by Vite).
    ```
+### Accessing the Application
 
+- **Local Development:** The app will be running on `http://localhost:3000`.
+- **Production:** The app will be running on the URL provided by Netlify. `https://sparkling-biscuit-b2c482.netlify.app`.
+  
 ## Environment Variables
 
 The application requires the following environment variables to be set:
