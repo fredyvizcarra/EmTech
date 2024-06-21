@@ -39,7 +39,7 @@ This project is a middleware API built using NestJS to consume the Marvel public
    ```
 2. Navigate to the project folder:
    ```sh
-   cd frontend-test
+   cd EmTech
    ```
 3. Install dependencies for both frontend and backend:
    ```sh
